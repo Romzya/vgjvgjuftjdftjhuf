@@ -33,7 +33,7 @@
 <br/> git add .
 <br/> git commit -m "Add user login method"
 
-# продолжение работы
+# Продолжение работы
 <br/> git add .
 <br/> git commit -m "Fix validation bug in email field"
 
