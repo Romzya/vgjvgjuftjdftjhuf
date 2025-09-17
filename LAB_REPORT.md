@@ -8,7 +8,7 @@
 | Разработчик 1 | Наговицын Ян | ✅ |
 | Тестировщик | Чутов| ✅ |
 
- **Ссылка на репозиторий:**https://github.com/Romzya/vgjvgjuftjdftjhuf
+ *Ссылка на репозиторий:*https://github.com/Romzya/vgjvgjuftjdftjhuf
 
  ### 2. Настройка окружения и первое коммит
 
