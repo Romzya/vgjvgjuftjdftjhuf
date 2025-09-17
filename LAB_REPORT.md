@@ -28,12 +28,12 @@ git checkout develop
 git pull origin develop
 git checkout -b feature/my-new-feature
 
-# ... ведется работа ...
+
 # Создание коммитов
 git add .
 git commit -m "Add user login method"
 
-# ... продолжение работы ...
+# продолжение работы
 git add .
 git commit -m "Fix validation bug in email field"
 
