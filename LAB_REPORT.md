@@ -13,10 +13,10 @@
  ### 2. Настройка окружения и первое коммит
 
 Создал ветку develop от main и запушил её на сервер.
--git checkout main    
--git pull origin main   # Убедился, что локальная main актуальна
--git checkout -b develop
--git push -u origin develop
+<br/> git checkout main    
+git pull origin main   # Убедился, что локальная main актуальна
+git checkout -b develop
+git push -u origin develop
 
 Участники команды переключились на ветку develop:
 git fetch origin          # Получили информацию о новых ветках с сервера
