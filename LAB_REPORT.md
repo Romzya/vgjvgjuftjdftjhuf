@@ -24,24 +24,24 @@
 
 Пример работы в feature-ветке:
 # Создание ветки от актуальной develop
-git checkout develop
-git pull origin develop
-git checkout -b feature/my-new-feature
+<br/> git checkout develop
+<br/> git pull origin develop
+<br/> git checkout -b feature/my-new-feature
 
 
 # Создание коммитов
-git add .
-git commit -m "Add user login method"
+<br/> git add .
+<br/> git commit -m "Add user login method"
 
 # продолжение работы
-git add .
-git commit -m "Fix validation bug in email field"
+<br/> git add .
+<br/> git commit -m "Fix validation bug in email field"
 
 # Пуш ветки на сервер
-git push -u origin feature/my-new-feature
+<br/> git push -u origin feature/my-new-feature
 
 Обновил локальную ветку develop:
-git checkout develop
-git pull origin develop
+<br/> git checkout develop
+<br/> git pull origin develop
 
 
