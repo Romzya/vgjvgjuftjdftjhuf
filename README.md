@@ -33,19 +33,7 @@ git clone https://github.com/ваш-username/название-репозитор
 cd название-репозитория
 Откройте index.html в браузере или используйте live-server:
 
-**bash:**
-npx live-server
 
-<br/> Структура проекта
-<br/> ├── index.html          # Главная страница
-<br/> ├── menu.html          # Страница меню
-<br/> ├── booking.html       # Страница бронирования
-<br/> ├── css/
-<br/> │   └── style.css      # Основные стили
-<br/> ├── js/
-<br/> │   └── script.js      # Основной JavaScript
-<br/> ├── images/            # Изображения
-<br/>└── assets/            # Дополнительные ресурсы
 
 <br/> Лицензия
 <br/> **Этот проект является собственностью ресторана "Диафрагма".**
